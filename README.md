@@ -14,4 +14,4 @@ I haven't *totally* understood the way these programming languages work, but eve
 
 ## Socials
 
-Spare yourself some time searching; I don't really use social media outside of, like, Gmail. I've got a website on Coder Merlin, though. [Check it out](https://www.codermerlin.com/users/mohibullah-meer/Digital%20Portfolio/index.html).
+I don't really use social media outside of, like, iMessage. I've got a website on Coder Merlin, though. [Check it out](https://www.codermerlin.com/users/mohibullah-meer/Digital%20Portfolio/index.html)!
