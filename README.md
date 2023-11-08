@@ -6,9 +6,10 @@ My name's Mohib, and this is my GitHub profile. I think I get how to use this no
 
 * HTML
 * CSS
+* Swift
+* LaTeX
 * Python
-* Markdown
-* Swift (unfamiliar)
+* Markdown (unfamiliar)
 * Shellscript (*very* unfamiliar)
 
 ## Socials
